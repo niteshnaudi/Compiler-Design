@@ -1,6 +1,8 @@
 # Compiler Construction: Lexical & Syntax Analysis
 
-**Name:** Nitesh Naudiyal | **Roll No.:** 2472031
+**Name:** Nitesh Naudiyal 
+
+**Roll No.:** 2472031
 
 A Python implementation of core compiler front-end components, covering lexical analysis, `FIRST`/`FOLLOW` set generation, top-down parsing (`LL(1)`), operator precedence parsing, and bottom-up shift-reduce parsing (`LR(0)`, `SLR(1)`, `LALR(1)`, and `CLR(1)`).
 
